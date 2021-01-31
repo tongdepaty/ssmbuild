@@ -1,0 +1,5 @@
+1查看bean是否注入
+2,查看spring的底层是否出错
+3.Junit、
+4.springmvc查看是否注入bean
+5.web中没有applicationcontext配置文件
